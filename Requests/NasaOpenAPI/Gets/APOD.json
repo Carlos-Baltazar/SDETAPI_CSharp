@@ -1,0 +1,5 @@
+{
+  "Method": "Get",
+  "URL": "https://api.nasa.gov/planetary/apod",
+  "ApiKey": "GRQVaEIjIg4eyst1YnxvQOsGUd64bhAO7i1LxmpL"
+}
